@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DomizianaFerrari
-- 👀 I’m interested in cybersecurity and ethical hacking
-- 🌱 I’m currently learning data analytics
-- 💞️ I’m looking to collaborate on data projects
+- 🤖 I’m currently learning cybersecurity and ethical hacking
+- 🤝 I’m looking to collaborate on cybersecurity projects
 - 📫 How to reach me: ferrari.domiziana@gmail.com
 
 <!---
